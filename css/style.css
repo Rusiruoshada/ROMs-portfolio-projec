@@ -48,6 +48,20 @@ h3 {
 
 .profile-img {
     width: 25%;
+    padding-right: 30px;
+    float: left;
+    border-radius: 120px 0px 120px 0px;
+}
+
+.profile {
+    text-align: left;
+    line-height: 2;
+    width: 40%;
+    margin: 50px auto;
+}
+
+.profile h2{
+    display: inline;
 }
 
 .typescript , .mysql {
@@ -116,7 +130,7 @@ hr {
 
 .bottom-container {
     margin-top: 100px;
-    background-color: rgb(128, 204, 255) ;
+    background-color: #60c5c0 ;
     padding: 30px;
 }
 
@@ -129,3 +143,4 @@ hr {
     font-weight: 400;
     margin-top: 30px;
 }
+
